@@ -1,4 +1,6 @@
-![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Hello there!" width="640">
+</p>
 
 - 🖖 Hi, my name's JC.
 - 👨‍💻 I'm a Full ~Snack~ Stack Web Developer.
