@@ -1,4 +1,4 @@
-# Hello there! 👋
+![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 ![General Kenobi](https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif)
 
 - 🖖 Hi, I am JC.
