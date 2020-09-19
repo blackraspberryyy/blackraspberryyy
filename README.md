@@ -1,9 +1,16 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Hello there!" width="640">
+  <img src="Screen Shot 2020-09-19 at 10.19.10 PM.png" alt="Hi, I'm JC" width="50%">
 </p>
 
-- 🖖 Hi, my name's JC.
-- 👨‍💻 I'm a Full ~Snack~ Stack Web Developer.
-- 🔭 I've worked with JS frameworks such as VueJS, Vuetify, Nuxt, Angular, Angular Material, NestJS, Typescript, etc.
-- 🔗 http://blackraspberryyy.github.io/
-- ✉️ carlo.valencia066@gmail.com
+### 👨‍💻 About Me
+- Lives in Valenzuela, Philippines 🇵🇭
+- Worked with Javascript, Typescript, VueJS, Angular, NestJS, React Native and much more!
+- Check out my site to see more info about me: 👉 https://blackraspberryyy.github.io/
+
+### 🤙 Stay in touch
+- Gmail: carlo.valencia066@gmail.com
+- LinkedIn: https://www.linkedin.com/in/juan-carlo-valencia-a0997418b/
+- Stack Overflow: https://stackoverflow.com/users/9183405/blackraspberryyy
+- Github: https://github.com/blackraspberryyy
+- Facebook: https://www.facebook.com/blackraspberryyy
+- Messenger: https://www.messenger.com/t/blackraspberryyy
