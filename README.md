@@ -8,9 +8,7 @@
 - Check out my site to see more info about me: 👉 https://blackraspberryyy.github.io/
 
 ### 🤙 Stay in touch
-- Gmail: carlo.valencia066@gmail.com
+- Gmail: carlo.valencia066+github@gmail.com
 - LinkedIn: https://www.linkedin.com/in/juan-carlo-valencia-a0997418b/
 - Stack Overflow: https://stackoverflow.com/users/9183405/blackraspberryyy
 - Github: https://github.com/blackraspberryyy
-- Facebook: https://www.facebook.com/blackraspberryyy
-- Messenger: https://www.messenger.com/t/blackraspberryyy
