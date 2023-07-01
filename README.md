@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 - Lives in Valenzuela, Philippines 🇵🇭
 - Worked with Javascript, Typescript, VueJS, Angular, NestJS, React Native and much more!
-- Check out my site to see more info about me: 👉 https://blackraspberryyy.github.io/
+- Check out my site to see more info about me: 👉 https://jcvalencia.dev/
 
 ### 🤙 Stay in touch
 - Gmail: carlo.valencia066+github@gmail.com
